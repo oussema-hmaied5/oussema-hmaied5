@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently a Student at **Esprit**
 
-- 🌱 I’m currently learning **Spring Boot , Angular and C#**
+- 🌱 I’m currently learning **Spring Boot , Angular and JogetDX**
 
-- 👨‍💻 All of my projects are available at [My Profile Git](My Profile Git)
+- 👨‍💻 All of my projects are available at My Profile
 
-- 💬 Ask me about **Symfony ,JavaFx, C and C++**
+- 💬 Ask me about **Symfony ,JavaFx, C and C++, C#**
 
 - 📫 How to reach me **Oussama.hamaied@hotmail.fr**
 
