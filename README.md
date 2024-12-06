@@ -28,7 +28,7 @@ My experience spans both **frontend** and **backend** development, enabling me t
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://tn.linkedin.com/in/oussema-h-9506531b2?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" alt="oussema hmaied" height="40" width="50" /></a>
+<a href="https://tn.linkedin.com/in/oussema-h-9506531b2?trk=people-guest_people_search-card" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Linkedin.svg" alt="oussema hmaied" height="40" width="50" /></a>
 
 </p>
 
